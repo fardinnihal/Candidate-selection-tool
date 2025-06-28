@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+openpyxl
+
+Add requirements.txt for dependencies
